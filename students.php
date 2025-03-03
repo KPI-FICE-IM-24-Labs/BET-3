@@ -36,7 +36,8 @@
   }
 
   echo '<a href="./create_record.php">Add new student</a></br>';
-  echo '<a href="./sort_students.php">Get sorted list</a>';
+  echo '<a href="./sort_students.php">Get sorted list</a></br>';
+  echo '<a href="./analitics.php">Get site stats</a>';
   ?>
 </body>
 
